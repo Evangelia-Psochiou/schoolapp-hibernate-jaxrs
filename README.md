@@ -1,0 +1,1 @@
+# schoolapp-hibernate-jaxrs
